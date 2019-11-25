@@ -1,8 +1,27 @@
+# Blocklist provided by NextDNS.
+#
+# Source: https://github.com/nextdns/cname-cloaking-blocklist
+#
+# This blocklist is meant to be used on intermediate CNAMEs as opposed to query
+# names. Each domain must be treated as wildcard match (matching on both domain
+# and *.domain).
+
+# Eulerian
 eulerian.net
+
+# XiTi (AT-Internet)
 at-o.net
+
+# Keyade
 k.keyade.com
+
+# Adobe Marketing Cloud
 2o7.net
+sc.omtrdc.net
+
+# Criteo
 storetail.io
 dnsdelegation.io
-sc.omtrdc.net
+
+# Commanders Act
 tagcommander.com
