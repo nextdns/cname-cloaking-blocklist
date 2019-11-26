@@ -25,3 +25,10 @@ dnsdelegation.io
 
 # Commanders Act
 tagcommander.com
+
+# TraceDock
+# Clients setup CNAME records for a subdomain of their choice that map to one of TraceDocks
+# aws load balancers. These were discovered via customer sites, such as beta.simpel.nl,
+# lease.leasevergelijker.nl and pc3.vanmoof.com.
+a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
+afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
