@@ -1,10 +1,10 @@
-# Blocklist provided by NextDNS.
+# NextDNS CNAME Cloaking Blocklist
 #
-# Source: https://github.com/nextdns/cname-cloaking-blocklist
+# https://github.com/nextdns/cname-cloaking-blocklist
 #
-# This blocklist is meant to be used on intermediate CNAMEs as opposed to query
-# names. Each domain must be treated as wildcard match (matching on both domain
-# and *.domain).
+# Important: For this list to work at all, the blocking logic needs to
+# wildcard match (domain and all its multi-level subdomains) CNAMEs
+# against the domains in this list.
 
 # Eulerian
 eulerian.net
@@ -35,3 +35,13 @@ afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 
 # Ingenious Technologies
 affex.org
+
+# intent (intent.com)
+partner.intentmedia.net
+
+# Webtrekk
+webtrekk.net
+wt-eu02.net
+
+# Otto Group
+oghub.io
