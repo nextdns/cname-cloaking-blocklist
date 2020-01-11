@@ -11,17 +11,25 @@ eulerian.net
 
 # AT Internet (formerly XiTi)
 at-o.net
+ati-host.net
+
+# NP6
+bp01.net
 
 # Keyade
-k.keyade.com
+keyade.com
 
 # Adobe Experience Cloud (formerly Omniture)
 2o7.net
-sc.omtrdc.net
+omtrdc.net
 
 # Criteo
+criteo.com
 storetail.io
 dnsdelegation.io
+
+# ThreatMetrix
+online-metrix.net
 
 # Commanders Act
 tagcommander.com
@@ -45,3 +53,10 @@ wt-eu02.net
 
 # Otto Group
 oghub.io
+
+# A8
+trck.a8.net
+
+# Ebis
+# https://prtimes.jp/main/html/rd/p/000000215.000009812.html
+ebis.ne.jp
