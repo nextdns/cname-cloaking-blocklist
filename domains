@@ -20,8 +20,8 @@ k.keyade.com
 sc.omtrdc.net
 
 # Criteo
-storetail.io
 dnsdelegation.io
+storetail.io
 
 # Commanders Act
 tagcommander.com
@@ -30,6 +30,8 @@ tagcommander.com
 wizaly.com
 
 # TraceDock
+a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
+a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 
