@@ -6,6 +6,16 @@
 # wildcard match (domain and all its multi-level subdomains) CNAMEs
 # against the domains in this list.
 
+# Pardot
+go.pardot.com
+
+# Act-On
+actonservice.com
+actonsoftware.com
+
+# Oracle Eloqua
+hs.eloqua.com
+
 # Eulerian
 eulerian.net
 
