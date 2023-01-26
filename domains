@@ -24,6 +24,8 @@ k.madmetrics.com
 data.adobedc.net
 sc.adobedc.net
 sc.omtrdc.net
+102.112.2o7.net
+122.2o7.net
 
 # Criteo
 # https://www.criteo.com
@@ -115,3 +117,37 @@ go.pardot.com
 # https://www.leadforensics.com
 # Note: not directly disguising itself as first-party, but cloaking the destination behind plenty of random domains.
 ghochv3eng.trafficmanager.net
+
+# 2cnt.net
+# https://www.2cnt.com
+prolitteris.2cnt.net
+dk.2cnt.net
+de.2cnt.net
+
+# ads2 bid
+# https://ads2.bid
+lb.rtb.ads.bid
+
+# affilbox
+# https://www.affilbox.cz
+cz.affilbox.cz
+c4924.affilbox.cz
+
+# Advanced Hosting
+# https://advancedhosting.com
+cdn18685953.ahacdn.me
+cdn28786515.ahacdn.me
+cdn12359286.ahacdn.me
+cdn44221613.ahacdn.me
+
+# clickaine
+# https://clickaine.com
+api.clickaine.com
+
+# Ensighten
+# https://www.ensighten.com
+edge.nc0.co
+
+# Extole
+# https://www.extole.com
+extole.io
