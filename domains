@@ -24,6 +24,8 @@ k.madmetrics.com
 data.adobedc.net
 sc.adobedc.net
 sc.omtrdc.net
+102.112.2o7.net
+122.2o7.net
 
 # Criteo
 # https://www.criteo.com
@@ -61,6 +63,7 @@ oghub.io
 # NP6 by ChapsVision
 # https://www.chapsvision.com/marketing-automation
 tracking.bp01.net
+form.bp01.net
 
 # A8.net
 # https://www.a8.net
@@ -115,3 +118,102 @@ go.pardot.com
 # https://www.leadforensics.com
 # Note: not directly disguising itself as first-party, but cloaking the destination behind plenty of random domains.
 ghochv3eng.trafficmanager.net
+
+# 2cnt.net
+# https://www.2cnt.com
+prolitteris.2cnt.net
+dk.2cnt.net
+de.2cnt.net
+
+# ads2 bid
+# https://ads2.bid
+lb.rtb.ads.bid
+
+# affilbox
+# https://www.affilbox.cz
+cz.affilbox.cz
+c4924.affilbox.cz
+
+# Advanced Hosting
+# https://advancedhosting.com
+cdn18685953.ahacdn.me
+cdn28786515.ahacdn.me
+cdn12359286.ahacdn.me
+cdn44221613.ahacdn.me
+
+# clickaine
+# https://clickaine.com
+api.clickaine.com
+
+# Ensighten
+# https://www.ensighten.com
+edge.nc0.co
+
+# Extole
+# https://www.extole.com
+extole.io
+
+# Geniee
+# https://en.geniee.co.jp
+genieespv.jp
+
+# GMO Internet Group
+# https://www.gmo.jp
+ad-cloud.jp
+site-112900816347.gslb5.sakura.ne.jp
+e10217.g.akamaiedge.net
+e26817.f.akamaiedge.net
+e10217.f.akamaiedge.net
+site-113001687131.gslb7.sakura.ne.jp
+newssuite-sony-net.storage.googleapis.com
+
+# Heleric.com
+# heleric.com
+heleric.com
+
+# INFOnline
+# http://iocnt.net
+relay.iocnt.net
+
+# LexisNexis Risk Solutions
+# https://risk.lexisnexis.com
+online-metrix.net
+
+# Logly
+# logly.co.jp
+nt-compass-fit-jp.logly.co.jp
+send-mad-infeed-jp.logly.co.jp
+www-compass-fit-jp.logly.co.jp
+
+# NameSilo
+# https://www.namesilo.com
+ab1n.net
+cds.d6n9n7e2.hwcdn.net
+cds.v3j9t5q9.hwcdn.net
+
+# Nativo
+# https://www.nativo.com
+ntv.io
+ntvpforever.com
+postrelease.com
+jadserve.postrelease.com.akadns.net
+unavailable.hearstnp.com
+partners-time-com-prod.edgeserving.com
+realworldsurvivor-com-prod.edgeserving.com
+
+# Parse.ly
+# https://www.parse.ly
+parsely.com
+
+# Popcash
+# https://popcash.net
+b-cdn.net
+
+# RedTrack
+# https://redtrack.io
+rdtk.io
+
+# Webair
+# https://www.webair360.com
+ak-is2.net
+stackpathcdn.com
