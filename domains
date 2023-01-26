@@ -205,10 +205,6 @@ realworldsurvivor-com-prod.edgeserving.com
 # https://www.parse.ly
 parsely.com
 
-# Plausible Analytics
-# https://plausible.io
-custom.plausible.io
-
 # Popcash
 # https://popcash.net
 b-cdn.net
